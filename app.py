@@ -35,4 +35,4 @@ def predict():
     return render_template('index.html', prediction_text=f'The predicted pH is {prediction[0]:.2f}')
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0', port=8000, debug=True)
