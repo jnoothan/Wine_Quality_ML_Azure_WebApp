@@ -101,7 +101,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Youtube playlist - https://www.youtube.com/playlist?list=PLPMPu1ti8DuF94N9QX-PbngIKsA0zsUCc
+## Youtube playlist 
+
+- **Link** : https://www.youtube.com/playlist?list=PLPMPu1ti8DuF94N9QX-PbngIKsA0zsUCc
 
 ## 📬 Contact
 
